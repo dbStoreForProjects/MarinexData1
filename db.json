@@ -1,0 +1,142 @@
+{
+  "shippingPrices": [
+    {
+      "id": 1,
+      "tariff": "0.00 kg - 0.10 kg",
+      "forStandards": "0.75 USD",
+      "forLiquids": "0.75 USD"
+    },
+    {
+      "id": 2,
+      "tariff": "0.10 kg - 0.25 kg",
+      "forStandards": "1.00 USD",
+      "forLiquids": "1.00 USD"
+    },
+    {
+      "id": 3,
+      "tariff": "0.25 kg - 0.50 kg",
+      "forStandards": "2.50 USD",
+      "forLiquids": "2.50 USD"
+    },
+    {
+      "id": 4,
+      "tariff": "0.50 kg - 0.75 kg",
+      "forStandards": "3.50 USD",
+      "forLiquids": "3.50 USD"
+    },
+    {
+      "id": 5,
+      "tariff": "0.75 kg - 1.00 kg",
+      "forStandards": "4.00 USD",
+      "forLiquids": "4.00 USD"
+    },
+    {
+      "id": 6,
+      "tariff": "1.00 kg - 5.00 kg",
+      "forStandards": "kg / 4.00 USD",
+      "forLiquids": "kg / 4.00 USD"
+    },
+    {
+      "id": 7,
+      "tariff": "5.00 kg - 10.00 kg",
+      "forStandards": "kg / 3.50 USD",
+      "forLiquids": "kg / 3.50 USD"
+    },
+    {
+      "id": 8,
+      "tariff": "10.00 kg və üzəri",
+      "forStandards": "kg / 3.00 USD",
+      "forLiquids": "kg / 3.00 USD"
+    }
+  ],
+  "about": [
+    {
+      "title": "Biz kimik?",
+      "image": "./assets/images/Banners/image3.png",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "image": "./assets/images/brands/image11.png"
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/brands/amazon.png"
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/brands/asos.png"
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/brands/gratis.png"
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/brands/koton.png"
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/brands/mango.png"
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/brands/mavi.png"
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/brands/trendyol.png"
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/brands/watsons.png"
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/brands/mavi.png"
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/brands/trendyol.png"
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/brands/watsons.png"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Sifariş et",
+      "image": "./assets/images/services/online.png",
+      "infoContent": "Bəyəndiyiniz və seçdiyiniz məhsulun və ya məhsulların linkini bizə göndərin.Ödənişi edin və rahatlıqla bağlamanızın gəlməyini gözləyin. Bağlamanız Bakı anbarına daxil olan kimi sizə məlumat verəcəyik. Xidmət haqqı 5% təşkil edir."
+    },
+    {
+      "id": 2,
+      "title": "Online Kuryer Sifarişi",
+      "image": "./assets/images/services/curyer.png",
+      "infoContent": "Bağlamanızı evdən çıxmadan əldə edə bilərsiniz. Bunun üçün sadəcə kuryer sifariş verməyiniz kifayətdir. Siz ünvanı deyin, biz bağlamanı evinizə qədər çatdıraq."
+    },
+    {
+      "id": 3,
+      "title": "Bağlamaların daşınması",
+      "image": "./assets/images/services/package.png",
+      "infoContent": "Xaricdən sifariş verdiyiniz bağlamaların sürətli və keyfiyyətli şəkildə daşınmasını həyata keçiririk. 3-5 gün müddət ərzində bağlamalar xaricdəki anbardan Bakıya çatdırılır."
+    },
+    {
+      "id": 4,
+      "title": " Online Poçt Sifarişi",
+      "image": "./assets/images/services/cargo.png",
+      "infoContent": "Rayonlarda yaşayan müştərilərimizin də sifariş verməsini asanlaşdırmaq üçün poçt vasitəsilə yüklərin çatdırılmasını xidmətlərimiz arasına əlavə etdik. Belə ki, Bakı anbarına gələn sifarişinizi gəlib anbardan götürmək imkanınız yoxdursa , poçt vasitəsilə çatdırılma sifariş verə bilər və bağlamanızı sizə ən yaxın poçt şöbəsindən əldə edə bilərsiniz."
+    }
+  ],
+  "forbiddens": [
+    {
+      "id": 1,
+      "title": "Daşınması qadağan olan məhsullar",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32"
+    }
+  ]
+}
